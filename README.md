@@ -1,4 +1,4 @@
-### `demo`
+### `Demo`
 
 Runs the app in the development mode.\
 Open [https://react-agmptq.stackblitz.io/](https://react-agmptq.stackblitz.io/) to view it in your browser.
