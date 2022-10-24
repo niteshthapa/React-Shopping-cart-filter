@@ -1,7 +1,7 @@
 ### `demo`
 
 Runs the app in the development mode.\
-Open [https://react-hdpbkb.stackblitz.io/](https://react-hdpbkb.stackblitz.io/) to view it in your browser.
+Open [https://react-agmptq.stackblitz.io/](https://react-agmptq.stackblitz.io/) to view it in your browser.
 
 ## Available Scripts
 
